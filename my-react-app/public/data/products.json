@@ -1,0 +1,230 @@
+[
+    {
+        "id": 1,
+        "title": "Classic White Sneakers",
+        "price": 79.99,
+        "description": "Timeless leather sneakers perfect for everyday wear. Features a comfortable sole and sleek design.",
+        "category": "Footwear",
+        "image": "https://images.unsplash.com/photo-1549298916-b41d501d3772?w=500",
+        "rating": {
+            "rate": 4.5,
+            "count": 120
+        }
+    },
+    {
+        "id": 2,
+        "title": "Minimalist Leather Backpack",
+        "price": 129.50,
+        "description": "Spacious and durable backpack made from premium full-grain leather. Fits up to a 15-inch laptop.",
+        "category": "Accessories",
+        "image": "https://images.unsplash.com/photo-1548036328-c9fa89d128fa?w=500",
+        "rating": {
+            "rate": 4.8,
+            "count": 85
+        }
+    },
+    {
+        "id": 3,
+        "title": "Wireless Noise-Canceling Headphones",
+        "price": 199.99,
+        "description": "Experience pure sound with hybrid active noise cancellation and up to 40 hours of battery life.",
+        "category": "Electronics",
+        "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=500",
+        "rating": {
+            "rate": 4.2,
+            "count": 340
+        }
+    },
+    {
+        "id": 4,
+        "title": "Mechanical Gaming Keyboard",
+        "price": 89.99,
+        "description": "Tactile RGB mechanical keyboard with customizable switches and a premium aluminum top frame.",
+        "category": "Electronics",
+        "image": "https://images.unsplash.com/photo-1587829741301-dc798b83add3?w=500",
+        "rating": {
+            "rate": 4.6,
+            "count": 210
+        }
+    },
+    {
+        "id": 5,
+        "title": "Ergonomic Wireless Mouse",
+        "price": 49.99,
+        "description": "Designed to fit your hand naturally, reducing wrist strain with high-precision tracking.",
+        "category": "Electronics",
+        "image": "https://images.unsplash.com/photo-1615663245857-ac93bb7c39e7?w=500",
+        "rating": {
+            "rate": 4.4,
+            "count": 95
+        }
+    },
+    {
+        "id": 6,
+        "title": "Smart Fitness Watch",
+        "price": 159.00,
+        "description": "Track your daily activity, heart rate, and sleep metrics with built-in GPS and a 7-day battery life.",
+        "category": "Electronics",
+        "image": "https://images.unsplash.com/photo-1508685096489-7aacd43bd3b1?w=500",
+        "rating": {
+            "rate": 4.3,
+            "count": 180
+        }
+    },
+    {
+        "id": 7,
+        "title": "Premium Denim Jacket",
+        "price": 65.00,
+        "description": "A classic staple item crafted from heavy-duty cotton denim with a modern relaxed fit.",
+        "category": "Apparel",
+        "image": "https://images.unsplash.com/photo-1576995853123-5a10305d93c0?w=500",
+        "rating": {
+            "rate": 4.7,
+            "count": 64
+        }
+    },
+    {
+        "id": 8,
+        "title": "Cotton Crewneck T-Shirt",
+        "price": 24.99,
+        "description": "Ultra-soft, breathable 100% organic cotton tee designed for comfort and everyday layering.",
+        "category": "Apparel",
+        "image": "https://images.unsplash.com/photo-1521572267360-ee0c2909d518?w=500",
+        "rating": {
+            "rate": 4.1,
+            "count": 520
+        }
+    },
+    {
+        "id": 9,
+        "title": "Running Mesh Shoes",
+        "price": 95.00,
+        "description": "Lightweight and breathable running shoes featuring an engineered mesh upper and responsive cushioning.",
+        "category": "Footwear",
+        "image": "https://images.unsplash.com/photo-1460353581641-37baddab0fa2?w=500",
+        "rating": {
+            "rate": 4.6,
+            "count": 145
+        }
+    },
+    {
+        "id": 10,
+        "title": "Leather Chelsea Boots",
+        "price": 140.00,
+        "description": "Sleek and versatile ankle boots with elastic side panels and a durable rubber outsole.",
+        "category": "Footwear",
+        "image": "https://images.unsplash.com/photo-1608256246200-53e635b5b65f?w=500",
+        "rating": {
+            "rate": 4.5,
+            "count": 78
+        }
+    },
+    {
+        "id": 11,
+        "title": "Polarized Sunglasses",
+        "price": 35.00,
+        "description": "Classic wayfarer style sunglasses with 100% UV protection and glare-reducing polarized lenses.",
+        "category": "Accessories",
+        "image": "https://images.unsplash.com/photo-1511499767150-a48a237f0083?w=500",
+        "rating": {
+            "rate": 4.4,
+            "count": 290
+        }
+    },
+    {
+        "id": 12,
+        "title": "Stainless Steel Water Bottle",
+        "price": 28.50,
+        "description": "Double-walled vacuum insulated flask that keeps beverages ice cold for up to 24 hours.",
+        "category": "Accessories",
+        "image": "https://images.unsplash.com/photo-1602143407151-7111542de6e8?w=500",
+        "rating": {
+            "rate": 4.8,
+            "count": 412
+        }
+    },
+    {
+        "id": 13,
+        "title": "Portable Bluetooth Speaker",
+        "price": 59.99,
+        "description": "Compact, waterproof speaker with punchy bass and a convenient loop for travel.",
+        "category": "Electronics",
+        "image": "https://images.unsplash.com/photo-1608043152269-423dbba4e7e1?w=500",
+        "rating": {
+            "rate": 4.5,
+            "count": 230
+        }
+    },
+    {
+        "id": 14,
+        "title": "Slim Bifold Leather Wallet",
+        "price": 39.99,
+        "description": "Genuine leather minimalist wallet featuring RFID-blocking technology and 6 card slots.",
+        "category": "Accessories",
+        "image": "https://images.unsplash.com/photo-1627123424574-724758594e93?w=500",
+        "rating": {
+            "rate": 4.7,
+            "count": 115
+        }
+    },
+    {
+        "id": 15,
+        "title": "Chino Slim-Fit Pants",
+        "price": 49.50,
+        "description": "Comfortable stretch-cotton chinos suitable for both casual and semi-formal occasions.",
+        "category": "Apparel",
+        "image": "https://images.unsplash.com/photo-1473966968600-fa801b869a1a?w=500",
+        "rating": {
+            "rate": 4.2,
+            "count": 156
+        }
+    },
+    {
+        "id": 16,
+        "title": "Fleece Pullover Hoodie",
+        "price": 55.00,
+        "description": "Cozy, mid-weight fleece hoodie featuring a front pouch pocket and matching drawstrings.",
+        "category": "Apparel",
+        "image": "https://images.unsplash.com/photo-1556821840-3a63f95609a7?w=500",
+        "rating": {
+            "rate": 4.6,
+            "count": 198
+        }
+    },
+    {
+        "id": 17,
+        "title": "Canvas Skate Shoes",
+        "price": 60.00,
+        "description": "Low-profile skate shoes built with reinforced canvas and a vulcanized grip sole.",
+        "category": "Footwear",
+        "image": "https://images.unsplash.com/photo-1525966222134-fcfa99b8ae77?w=500",
+        "rating": {
+            "rate": 4.3,
+            "count": 88
+        }
+    },
+    {
+        "id": 18,
+        "title": "USB-C Desktop Microphone",
+        "price": 79.00,
+        "description": "Plug-and-play condenser microphone perfect for streaming, podcasting, and clear video calls.",
+        "category": "Electronics",
+        "image": "https://images.unsplash.com/photo-1590602847861-f357a9332bbc?w=500",
+        "rating": {
+            "rate": 4.4,
+            "count": 142
+        }
+    },
+    {
+        "id": 19,
+        "title": "Water-Resistant Windbreaker",
+        "price": 69.99,
+        "description": "Lightweight shell layer with an adjustable hood to keep you protected from wind and light rain.",
+        "category": "Apparel",
+        "image": "https://images.unsplash.com/photo-1548883354-7622d03aca27?w=500",
+        "rating": {
+            "rate": 4.5,
+            "count": 72
+        }
+    }
+]
