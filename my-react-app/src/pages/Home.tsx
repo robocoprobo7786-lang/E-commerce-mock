@@ -8,7 +8,7 @@ export default function Home() {
     <main className="container mx-auto px-6 pt-10 pb-24 md:pt-14 md:pb-32 flex flex-col items-center justify-start">
       <div className="text-center mb-14 flex flex-col items-center gap-6">
         <h1 className="text-4xl md:text-6xl lg:text-7xl font-bold tracking-tight lowercase leading-[1.1]">
-          ecommerce<br />
+          one stop<br />
           shopping for idiots
         </h1>
       </div>

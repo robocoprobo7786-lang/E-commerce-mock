@@ -3,7 +3,11 @@ import { AspectRatio } from "@/ui/aspect-ratio";
 import { useCart } from "@/context/CardContext";
 import { ShoppingBag } from "lucide-react";
 
-export default function Cart() {
+interface CartProps {
+  onViewChange: (view: string) => void;
+}
+
+export default function Cart({ onViewChange }: CartProps) {
   const { cart, updateQuantity, removeFromCart, cartSubtotal } = useCart();
 
   return (
@@ -110,6 +114,7 @@ export default function Cart() {
 
             <button
               type="button"
+              onClick={() => onViewChange('checkout')}
               className="w-full bg-white text-black font-semibold text-sm py-4 uppercase tracking-wider text-center block hover:bg-zinc-200 transition-colors cursor-pointer mt-4 rounded-none"
             >
               proceed to checkout
